@@ -19,14 +19,14 @@ public class question
 		"I have a rotten apple, a green apple, and a pear. How many ways can i line them up?",
 		"is the angle acute or obtuse: 66",
 		"is the angle right or left: 90",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""};
-	private String[] Answers3 = new String[]{"6","acute","right","","","","","","",""};
+		"What is the latin name of the human species",
+		"5!",
+		"First name of current president",
+		"Chemical symbol of oxygen",
+		"(7^3)/7",
+		"How many legs does a centipede have?",
+		"Chemical structure of water"};
+	private String[] Answers3 = new String[]{"6","acute","right","homo sapien","60","Donald","O","49","100","H2O"};
 
 	private int QNumber = 0;//the place in the array
 	
